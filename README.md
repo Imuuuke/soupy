@@ -1,4 +1,4 @@
-![Soupy Header](https://i.imgur.com/mDrXgrG.png)
+![Soupy Header]a cat(https://i.imgur.com/mDrXgrG.png)
 
 Please feel free to [Buy Me A Coffee](https://buymeacoffee.com/sneezeparty) to help support this project.  
 
